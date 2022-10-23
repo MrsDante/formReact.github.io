@@ -1,3 +1,17 @@
+## Registration Form
+
+[GitHub Pages](https://mrsdante.github.io/formReact.github.io/).
+
+# Описание
+
+Форма, содержащая следующие поля: email, password, address, city, counrty, accept rules
+
+После нажания кнопки подтверждения, появляется таблица, в которой отображаются данные из всех заполненных полей. Из этой формы можно вернуться назад в редактирование данных при нажатии кнопки Back.
+
+# Использованные инструменты 
+
+React, React Hooks (useState()), bootstrap 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

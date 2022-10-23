@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formReact.github.io/static/css/main.880f8ffb.css",
+    "main.js": "/formReact.github.io/static/js/main.3cb763d1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/formReact.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/formReact.github.io/index.html",
+    "main.880f8ffb.css.map": "/formReact.github.io/static/css/main.880f8ffb.css.map",
+    "main.3cb763d1.js.map": "/formReact.github.io/static/js/main.3cb763d1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/formReact.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.880f8ffb.css",
+    "static/js/main.3cb763d1.js"
+  ]
+}
