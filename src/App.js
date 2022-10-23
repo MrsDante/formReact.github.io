@@ -120,6 +120,12 @@ function App() {
             <option value="argentina">Argentina</option>
             <option value="russia">Russia</option>
             <option value="china">China</option>
+            <option value="france">France</option>
+            <option value="usa">USA</option>
+            <option value="korea">Korea</option>
+            <option value="japan">Japan</option>
+            <option value="mexico">Mexico</option>
+            <option value="australia">Australia</option>
           </select>
         </div>
       </div>
